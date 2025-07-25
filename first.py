@@ -1,25 +1,4 @@
-#from array import array
-#arr = array('i',[1,2,3,4])
-#list are built-in , we dont need to import themand array
-#means same tupe of element but the list , is not same it can be different one 
-#module 
-#import math
-#print(math.sqrt(7))
-#package is a collection of related modules in the directory .
-#ex numpy 
-#xrange and range()
-#range func behaved as s xrange in py 3 , funct that is usedto iterate 
-#a certain number of times in for loops in python .
-#dictionary comprehension 
-#import logging
-#logging.basicConfig(level=logging.DEBUG)
-#logging.debug("This is a debug message")
-#a="Rishu loves anup's eye"
-##substg=a[4:1:1]
-#print(substring)rin
-#import time
-#currenttime=time.localtime(time.time())
-#rint(currenttime)
+#Binary search 
 import random
 print("Hi , welcome to the game .let's start")
 #step 1 : Enter the range that is lower and upper bound 
